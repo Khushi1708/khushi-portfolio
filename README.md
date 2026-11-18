@@ -2,8 +2,6 @@
 
 An interactive, multi-page developer portfolio for **Khushi Aggarwal**, B.Tech CSE (AI) student, full-stack developer and AI researcher. Built with plain HTML, CSS and JavaScript — no build step, no framework.
 
-> **Live site:** add your Vercel URL here after deploying, e.g. `https://your-name.vercel.app`
-
 ## Features
 - **3D neural-network background** (Three.js) with glowing pulses that react to the mouse and scroll
 - **Aurora glass theme** with an animated gradient and tilt-on-hover cards
